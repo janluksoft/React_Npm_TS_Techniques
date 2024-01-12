@@ -8,7 +8,7 @@ with hook mechanism and Class_Component with full_state are used.
 - Several .tsx files define elements with JSX syntax;
 - index.tsx renders four elements adding external arguments to them;
 - Npm instaled local libraries: react v18.2, react-dom v18.2, react-scripts v5.0 with babel-loader v8.3;
-- Project written in Visual Studio Code.
+- Project written in Visual Studio Code;
 
 .
 ![](jpg/Screen3.png)
